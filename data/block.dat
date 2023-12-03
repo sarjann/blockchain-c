@@ -1,0 +1,10 @@
+block_number:0
+time_stamp:1701646370
+nonce:33983
+hash:bd20eeb4dfccdddeb67b3151759a6901a02da4cbbe95ab01d2ae6b1a83b10000
+prev_hash:0000000000000000000000000000000000000000000000000000000000000000
+transaction_0
+id_sender:1,id_receiver:2,amount:4
+transaction_1
+id_sender:3,id_receiver:6,amount:12
+
